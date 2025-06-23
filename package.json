@@ -1,0 +1,12 @@
+{
+  "name": "supereroi-api-backend",
+  "version": "1.0.0",
+  "description": "JSON Server for Supereroi App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
